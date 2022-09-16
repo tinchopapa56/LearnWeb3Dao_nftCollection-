@@ -1,0 +1,23 @@
+{
+  "name": "learnweb3dao_nftcollection-",
+  "version": "1.0.0",
+  "description": "\"tutorial to learn web3\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinchopapa56/LearnWeb3Dao_nftCollection-.git"
+  },
+  "author": "tincho Develops",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinchopapa56/LearnWeb3Dao_nftCollection-/issues"
+  },
+  "homepage": "https://github.com/tinchopapa56/LearnWeb3Dao_nftCollection-#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  }
+}
